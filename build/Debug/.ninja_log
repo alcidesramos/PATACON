@@ -1,0 +1,29 @@
+# ninja log v5
+356	1038	8123326057325355	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj	a9ce7ba47ce6f369
+177	804	8123326055045203	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj	7c7f09470be2ec24
+198	980	8123326056605103	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj	cb619850670ddff8
+95	267	8123326049679427	CMakeFiles/PATACON.dir/startup_stm32f401xc.s.obj	45796f80e1fe475d
+124	881	8123326055329111	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Core/Src/system_stm32f4xx.c.obj	9a2dd02d78059b15
+87	529	8123326052316739	CMakeFiles/PATACON.dir/Core/Src/syscalls.c.obj	7e81989a017ad26f
+79	356	8123326050572680	CMakeFiles/PATACON.dir/Core/Src/sysmem.c.obj	b57ee25d662e766e
+675	1214	8123326059222838	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj	ff263a852838aed8
+64	2595	8123332057854463	CMakeFiles/PATACON.dir/Core/Src/stm32f4xx_hal_msp.c.obj	a35af33d314daa82
+529	1011	8123326057161910	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj	98caf82c0ce18263
+267	966	8123326056605103	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj	6216207b51767c89
+210	900	8123326055690589	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj	430540000767d6da
+167	829	8123326055217426	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj	3ef9e281cfe0936e
+66	1441	8123340380118537	CMakeFiles/PATACON.dir/Core/Src/main.c.obj	536a40e62386b84d
+157	929	8123326056335724	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj	f822776ba230f62d
+187	838	8123326055417269	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj	e1e84c2d213f261f
+62	621	8123326053213103	CMakeFiles/PATACON.dir/Core/Src/stm32f4xx_it.c.obj	c3ee4ad1bd47ee79
+621	1150	8123326058571199	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj	a9a74d10bedbd922
+221	994	8123326056949784	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj	8e0e7c42eb6f9f25
+804	1414	8123326061248685	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj	5d48c5ab018fb2c
+785	1312	8123326060222107	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj	9c7bf66f8e4b8590
+1441	4048	8123340402054425	PATACON.elf	1d7b268ba3b61275
+69	3432	8123486383626622	build.ninja	51212782bf898ad6
+136	1025	8123326057264132	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc.c.obj	28dabc6681652d49
+20	63	0	C:/Users/Alcides Ramos/Desktop/EMBEBIDOS/PATACON/build/Debug/CMakeFiles/cmake.verify_globs	536c769b78c8ac80
+114	862	8123326055262821	CMakeFiles/PATACON.dir/Core/Librerias/uart.c.obj	ecf49c57e52e1e47
+105	785	8123326054776079	CMakeFiles/PATACON.dir/Core/Librerias/adc_x.c.obj	e039871cd1110dd9
+146	916	8123326056171969	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc_ex.c.obj	a243df5237b41860
